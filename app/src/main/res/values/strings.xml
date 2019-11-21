@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Operaciones</string>
+    <string name="Titulo1">TECNOLOGICO DE ESTUDIOS SUPERIORES DEL ORIENTE DEL ESTADO DE MEXICO</string>
+    <string name="Titulo2">HERNÁNDEZ MARTÍNEZ ARAUNA PAOLA</string>
+    <string name="Titulo3">7S11</string>
+    <string name="Descripcion">OPERACIONES BÁSICAS</string>
+    <string name="SUMA">- SUMA</string>
+    <string name="RESTA">- RESTA</string>
+    <string name="MULTI">- MULTIPLICACIÓN</string>
+    <string name="DIVI">- DIVISIÓN</string>
+    <string name="OPTION">Elige una opción:</string>
+    <string name="iopcion">Ingresa tu opción</string>
+    <string name="result">CALCULAR</string>
+    <string name="ingresa">ACEPTAR</string>
+
+
+</resources>
